@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ScaleLock</string>
+    <string name="accessibility_service_label">ScaleLock Blocker</string>
+    <string name="accessibility_service_description">Detects when a blocked app is opened between 05:00 and 11:00 so ScaleLock can verify today\'s weigh-in in Health Connect.</string>
+</resources>
